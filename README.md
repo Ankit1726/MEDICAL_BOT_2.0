@@ -35,3 +35,5 @@ python app.py
 - Flask
 - GPT
 - Pinecone
+
+- ### Local PORT : http://127.0.0.1:8080
