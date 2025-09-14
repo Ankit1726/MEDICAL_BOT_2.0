@@ -35,5 +35,3 @@ python app.py
 - Flask
 - GPT
 - Pinecone
-
-## AWS_URI = 409661147901.dkr.ecr.eu-north-1.amazonaws.com/medicalbot
